@@ -43,6 +43,13 @@ The IR sensor detects the presence of an object and sends a digital signal to th
 6. The process repeats every 1 second.
 
 ---
+## 💻 Arduino Source Code
+
+[View IR Sensor and Buzzer Arduino Code](./IR_sensor_buzzer.ino)
+
+## 📸 Project Output
+
+![IR Sensor Object Detection and Buzzer Alert](./IRBUZZ.jpeg)
 
 ##  Expected Output
 
@@ -57,10 +64,6 @@ NO OBJECT
 ```
 
 ---
-
-## 💻 Arduino Source Code
-
-[View IR Sensor and Buzzer Arduino Code](./IR_sensor_buzzer.ino)
 
 ---
 
